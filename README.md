@@ -17,7 +17,7 @@ The original TensorFlow version can be found [here](https://github.com/spurra/ss
 ## Usage
 
 #### To train an ss-infogan on CIFAr10
-``bash
+```bash
 CUDA_VISIBLE_DEVICES=0 \
 python main.py
 ```
